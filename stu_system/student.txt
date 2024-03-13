@@ -1,0 +1,2 @@
+{'id': '096', 'name': 'zgj', 'chinese': 100, 'math': 136, 'english': 216, 'physics': 465}
+{'id': '097', 'name': '江财', 'chinese': 96, 'math': 98, 'english': 97, 'physics': 54}
